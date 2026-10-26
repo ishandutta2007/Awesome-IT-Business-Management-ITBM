@@ -75,9 +75,9 @@ The table below lists category-defining SaaS and enterprise platforms for ITBM, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the open-source ecosystem powering sovereign ITBM, project portfolio management, IT financial management (FinOps), and IT governance. **Sorted in descending order by GitHub stars**.
+Explore the open-source ecosystem powering sovereign ITBM, project portfolio management, IT financial management (FinOps), and IT governance. **Sorted in descending order by GitHub_Stars**.
 
-| 📦 Repository & Links | ⭐ GitHub Stars | ⚖️ License | 🛠️ Tech Stack | 📌 Primary ITBM / Governance Capabilities |
+| 📦 Repository & Links | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack | 📌 Primary ITBM / Governance Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Plane](https://github.com/makeplane/plane)**<br>• [Repo](https://github.com/makeplane/plane) • [Website](https://plane.so) | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | `AGPL-3.0` | Next.js, Django, Redis, PostgreSQL | Modern open-source project management platform positioned as an extensible Jira alternative; features cross-project modules, cycles, Gantt layouts, and portfolio-level roadmaps. |
 | **[Odoo](https://github.com/odoo/odoo)**<br>• [Repo](https://github.com/odoo/odoo) • [Website](https://www.odoo.com) | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | `LGPL-3.0` | Python, JavaScript, PostgreSQL | Modular enterprise ERP with dedicated Project Management and Analytic Accounting modules; enables granular IT cost allocation, vendor contract tracking, and project financial governance. |
@@ -136,7 +136,7 @@ We welcome contributions from the enterprise architecture, PMO, FinOps, and IT g
 3. 📝 **Add entries** following the tabular format:
    - Specific numerical starting pricing (no generic "Custom" or "Usage-based").
    - Explicit free tier / free trial limits (no "None" or "N/A").
-   - For open-source projects, include the social star badge (`style=social&color=white`) linking to the stargazers page.
+   - For open-source projects, include the social Stars_Badge (`style=social&color=white`) linking to the stargazers page.
 4. 🚀 **Submit a Pull Request** with a concise description of the tool.
 
 ---
